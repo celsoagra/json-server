@@ -1,6 +1,6 @@
 # json-server on Docker
 
-Json-server on docker alpine Environment. Please, see [https://github.com/typicode/json-server](github) and [https://www.npmjs.com/package/json-server](npmjs) for more details.
+Json-server on docker alpine Environment. Please, see [Github](https://github.com/typicode/json-server) and [NpmJS](https://www.npmjs.com/package/json-server) for more details.
 
 ## Running instance
 
